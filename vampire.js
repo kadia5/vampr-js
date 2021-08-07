@@ -49,7 +49,7 @@ class Vampire {
     //     return false;
 
     //   }
-    return this.numberOfOffspring >= vampire.numberOfOffspring;
+    return (this.numberOfOffspring >= vampire.numberOfOffspring);
         
   }
 
